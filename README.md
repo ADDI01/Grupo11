@@ -6,3 +6,4 @@ Captura.PNG: Imagen con el repositorio creado en remoto.
 David Palacios
 //hola otra vez
 Foto: Carpeta con una imagen de un perro.
+Nueva funcionalidad para rotar piezas con el ratón.
