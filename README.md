@@ -8,3 +8,4 @@ David Palacios
 =======
 //adios
 >>>>>>> 849beba4526a715aae49e540bc53e9ac2638300b
+Foto: Carpeta con una imagen de un perro.
